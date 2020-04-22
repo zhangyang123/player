@@ -44,7 +44,8 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     assetsPublicPath: './',
-    host: 'https://zhangyang123.github.io',
+    publicPath:'https://zhangyang123.github.io',
+    
 
     /**
      * Source Maps
